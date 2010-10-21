@@ -1,2 +1,0 @@
-#import "CHSpeedyArray.h"
-
