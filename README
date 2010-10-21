@@ -1,0 +1,1 @@
+*Speedyarray* is a very fast stack (the data structure) written in C++. It's optimized for the creation of lots of small stacks.
